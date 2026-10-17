@@ -1,0 +1,54 @@
+Test Infos
+ComPort,COM3 - STMicroelectronics STLink Virtual COM Port (COM3)-2
+FW_Version,FW Version : 1.8.0.0
+Module,VL53L8CH
+Preset,CNH_4x4_MAXBINS
+SensorType,VL53L8CH_AIKit
+ULD_Version,ULD VL53LMZ_2.0.16
+Version,MZ-AI Version 1.7.1
+LogLevel,0
+DisableCP,1
+StartType,0
+Resolution,16
+RangingPeriod,500
+IntegrationTime,10
+AppData,0
+UserEvent,0
+ZoneMode,2
+XtalkMargin,0
+SharpenerPercentage,0
+GlareFilter,0
+ClosestFirst,0
+wfdResolution,16
+wfdRangingPeriod,250
+wfdIntegrationTime,10
+wfdDistanceLow,400
+wfdDistanceHigh,800
+wfdMotionLow,0
+wfdMotionHigh,100
+ExtendedMode,2
+ExtendedFlags,0
+DivisorVG,0
+FeatureExtract,0
+miMinDistance,400
+miMaxDistance,1200
+cnhStartX,0
+cnhStartY,0
+cnhMergeX,4
+cnhMergeY,4
+cnhCols,1
+cnhRows,1
+cnhNumBins,75
+cnhStartBin,0
+cnhSubSample,1
+RO_cnhNumAgg,1
+RO_cnhDmin,187
+RO_cnhDmax,2588
+AppCtrl_00,0
+AppCtrl_01,0
+AppCtrl_02,0
+AppCtrl_03,0
+AppOut_A,2
+AppOut_B,2
+AppOut_C,0
+AppOut_D,2

@@ -1,0 +1,16 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Files the Claude app saves into this folder
+Claude outputs/
+
+# Diagnostic figures the scripts write that aren't part of the paper
+2025-06-27_MultiPeakShapes/*.fig
+2025-06-27_MultiPeakShapes/*.png
+2026-03-10_NetworkPressureTests/Figures/Plateau_*

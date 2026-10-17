@@ -1,0 +1,5 @@
+Curve fitting (stage 3 of MultiPeakPressure.m, with sequential seeding) of all 20 pressing files,
+13,300 frames in total, took 230.1 s: an average of 0.0173 s (17.3 ms) per frame.
+
+Measured in MATLAB on a desktop computer with a 13th Gen Intel Core i7 (2.10 GHz) processor and
+64 GB of RAM. Run times on other computers will differ.

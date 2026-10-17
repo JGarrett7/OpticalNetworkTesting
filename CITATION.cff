@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite the article listed under preferred-citation and this repository."
+type: dataset
+title: "Data and MATLAB code for 'Toward Soft Optical Networks for Deformation Sensing'"
+version: 1.0.0
+# date-released: YYYY-MM-DD    # add when you create the GitHub release
+authors:
+  - family-names: Williamson
+    given-names: John Garrett
+    orcid: "https://orcid.org/0000-0003-0199-189X"
+    affiliation: "The University of Tulsa"
+  - family-names: Schultz
+    given-names: Joshua
+    orcid: "https://orcid.org/0000-0002-2311-8656"
+    affiliation: "The University of Tulsa"
+repository-code: "https://github.com/JGarrett7/Soft_Optical_Networks_Data"
+license:
+  - GPL-3.0-only
+  - CC0-1.0
+keywords:
+  - soft robotics
+  - elastomeric waveguide
+  - time-of-flight sensing
+  - multiplexing
+  - deformation sensing
+abstract: >-
+  Raw time-of-flight histogram data, processed results, microscopy images and
+  MATLAB code supporting the article "Toward Soft Optical Networks for
+  Deformation Sensing". The code (GPL-3.0) reproduces the plotted figures from
+  the data (CC0-1.0).
+preferred-citation:
+  type: article
+  title: "Toward Soft Optical Networks for Deformation Sensing"
+  authors:
+    - family-names: Williamson
+      given-names: John Garrett
+      orcid: "https://orcid.org/0000-0003-0199-189X"
+    - family-names: Schultz
+      given-names: Joshua
+      orcid: "https://orcid.org/0000-0002-2311-8656"
+  year: 2026
+  # journal: "Journal name"    # add at publication
