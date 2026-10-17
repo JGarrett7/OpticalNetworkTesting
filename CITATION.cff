@@ -13,7 +13,7 @@ authors:
     given-names: Joshua
     orcid: "https://orcid.org/0000-0002-2311-8656"
     affiliation: "The University of Tulsa"
-repository-code: "https://github.com/JGarrett7/Soft_Optical_Networks_Data"
+repository-code: "https://github.com/JGarrett7/OpticalNetworkTesting"
 license:
   - GPL-3.0-only
   - CC0-1.0
