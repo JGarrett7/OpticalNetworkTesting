@@ -3,7 +3,7 @@ message: "If you use this data or code, please cite the article listed under pre
 type: dataset
 title: "Data and MATLAB code for 'Toward Soft Optical Networks for Deformation Sensing'"
 version: 1.0.0
-# date-released: YYYY-MM-DD    # add when you create the GitHub release
+date-released: "2026-11-10"
 authors:
   - family-names: Williamson
     given-names: John Garrett
@@ -14,6 +14,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-2311-8656"
     affiliation: "The University of Tulsa"
 repository-code: "https://github.com/JGarrett7/OpticalNetworkTesting"
+url: "https://doi.org/10.1088/1748-3190/aeb999"
 license:
   - GPL-3.0-only
   - CC0-1.0
@@ -30,7 +31,7 @@ abstract: >-
   the data (CC0-1.0).
 preferred-citation:
   type: article
-  title: "Toward Soft Optical Networks for Deformation Sensing"
+  title: "Toward soft optical networks for deformation sensing"
   authors:
     - family-names: Williamson
       given-names: John Garrett
@@ -38,5 +39,13 @@ preferred-citation:
     - family-names: Schultz
       given-names: Joshua
       orcid: "https://orcid.org/0000-0002-2311-8656"
+  journal: "Bioinspiration & Biomimetics"
+  publisher:
+    name: "IOP Publishing"
+  volume: 21
+  issue: 6
+  start: "066001"
   year: 2026
-  # journal: "Journal name"    # add at publication
+  month: 11
+  doi: "10.1088/1748-3190/aeb999"
+  url: "https://doi.org/10.1088/1748-3190/aeb999"
