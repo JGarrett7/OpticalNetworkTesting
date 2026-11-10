@@ -1,8 +1,10 @@
 # Soft optical networks: data and code
 
+[![DOI](https://img.shields.io/badge/DOI-10.1088%2F1748--3190%2Faeb999-blue)](https://doi.org/10.1088/1748-3190/aeb999)
+
 Raw data, processed results, microscopy images and MATLAB code for:
 
-> J. G. Williamson and J. Schultz, "Toward Soft Optical Networks for Deformation Sensing." *Journal details to be added at publication.*
+> J. G. Williamson and J. Schultz, "Toward soft optical networks for deformation sensing," *Bioinspiration & Biomimetics*, vol. 21, no. 6, p. 066001, 2026. https://doi.org/10.1088/1748-3190/aeb999
 
 The scripts reproduce the plotted figures and the measured values reported in the paper from the data in this repository.
 
@@ -87,7 +89,27 @@ The `filepath` field inside the processed files records where the raw files were
 
 ## How to cite
 
-Please cite the paper above. To cite this repository, use **Cite this repository** on GitHub, which reads `CITATION.cff`.
+If you use this data or code, please cite the paper:
+
+> J. G. Williamson and J. Schultz, "Toward soft optical networks for deformation sensing," *Bioinspiration & Biomimetics*, vol. 21, no. 6, p. 066001, 2026. https://doi.org/10.1088/1748-3190/aeb999
+
+```bibtex
+@article{Williamson2026,
+  author    = {Williamson, John Garrett and Schultz, Joshua},
+  title     = {Toward soft optical networks for deformation sensing},
+  journal   = {Bioinspiration \& Biomimetics},
+  year      = {2026},
+  month     = nov,
+  volume    = {21},
+  number    = {6},
+  pages     = {066001},
+  publisher = {IOP Publishing},
+  doi       = {10.1088/1748-3190/aeb999},
+  url       = {https://doi.org/10.1088/1748-3190/aeb999}
+}
+```
+
+GitHub's **Cite this repository** button (from `CITATION.cff`) gives the same reference in APA and BibTeX.
 
 ## Funding
 
